@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Frameworks, Web Programming, and Mobile Programming. 👨‍💻**
 
-- 💬 Ask me about **Anime recommendations, and, of course, Valorant strategies! 🎮**
+- 💬 Ask me about **Anime recommendations, and, of course, Valorant strategies! 🔫**
 
-- 📫 How to reach me **[Discord](https://discord.com/users/518643014764331058)**
+- 📫 How to reach me **[Discord](https://discord.com/users/518643014764331058) 🎮**
 
 - ⚡ Fun fact: **I can probably name more anime openings than I can remember my old passwords. 😁**
 
