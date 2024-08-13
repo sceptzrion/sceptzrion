@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/90ekftm1ltgy.gif)
 <h1 align="center">Yo, Sceptzrion here!</h1>
-<h3 align="center">Just another Informatics student trying to make sense of code, caffeine, and late-night debugging sessions. Also, I’m a Valorant player—so if you’re into gaming, we already have something in common.</h3>
+<h3 align="center">Just another Informatics student trying to make sense of code, caffeine, and late-night debugging sessions. Also, I’m a Valorant player—so if you’re into gaming, we already have something in common~</h3>
 <img align="right" alt="Elaina" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1647720532179126259/F626463F03B29F79E4D6B0954E0E3928440BE939/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sceptzrion&label=Profile%20views&color=0e75b6&style=flat" alt="sceptzrion" /> </p>
