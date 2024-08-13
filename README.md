@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anime recommendations, and, of course, Valorant strategies! 🎮**
 
-- ⚡ Fun fact **I can probably name more anime openings than I can remember my old passwords. 😁**
+- ⚡ Fun fact: **I can probably name more anime openings than I can remember my old passwords. 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
