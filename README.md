@@ -9,13 +9,14 @@
 
 - 💬 Ask me about **Anime recommendations, and, of course, Valorant strategies! 🎮**
 
+- 📫 How to reach me **[Discord](https://discord.com/users/518643014764331058)**
+
 - ⚡ Fun fact: **I can probably name more anime openings than I can remember my old passwords. 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ikhsannry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikhsannry" height="30" width="40" /></a>
-<a href="https://fb.com/ikhsannry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikhsannry" height="30" width="40" /></a>
 <a href="https://instagram.com/ikhsannry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikhsannry" height="30" width="40" /></a>
+<a href="https://fb.com/ikhsannry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikhsannry" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
